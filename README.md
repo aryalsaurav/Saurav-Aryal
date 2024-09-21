@@ -7,7 +7,7 @@ I'm a passionate software developer with expertise in web development and cloud 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurav__aryal)
 
 ## 💼 Current Work
-[Brief description of your current job or major project you're working on]
+I am working as a Backend Developer.
 
 ## 🚀 Skills
 
